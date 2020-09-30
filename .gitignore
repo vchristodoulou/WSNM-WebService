@@ -1,0 +1,30 @@
+# application
+src/dist
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# misc
+src/__pycache__
+src/app/__pycache__
+src/app/debug/__pycache__
+src/app/images/__pycache__
+src/app/nodes/__pycache__
+src/app/nodetypes/__pycache__
+src/app/status/__pycache__
+src/app/timeslots/__pycache__
+src/app/users/__pycache__
